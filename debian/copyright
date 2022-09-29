@@ -1,0 +1,38 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: xz
+Source: https://github.com/xi2/xz
+
+Files: *
+Copyright: not applicable
+License: public-domain
+
+Files: debian/*
+Copyright: 2015 Dmitry Smirnov <onlyjob@debian.org>
+License: GPL-3+
+
+Files: debian/patches/*
+Copyright: 2015 Dmitry Smirnov <onlyjob@debian.org>
+License: GPL-3+ or public-domain
+Comment: patches can be licensed under the same terms as upstream.
+
+License: public-domain
+ All the files in this package have been written by Michael Cross,
+ Lasse Collin and/or Igor PavLov. All these files have been put
+ into the public domain. You can do whatever you want with these
+ files.
+ .
+ This software is provided "as is", without any warranty.
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ ․
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ ․
+ The complete text of the GNU General Public License version 3
+ can be found in "/usr/share/common-licenses/GPL-3".

@@ -1,0 +1,25 @@
+golang-github-xi2-xz (0.0~git20171230.48954b6-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Thu, 07 Jan 2021 13:39:14 +0100
+
+golang-github-xi2-xz (0.0~git20171230.48954b6-1) unstable; urgency=medium
+
+  [ Paul Tagliamonte ]
+  * Team upload.
+  * Use a secure transport for the Vcs-Git and Vcs-Browser URL
+
+  [ Michael Stapelberg ]
+  * gbp.conf: disable pristine-tar
+  * New upstream version 0.0~git20171230.48954b6
+  * update packaging for new import path
+
+ -- Michael Stapelberg <stapelberg@debian.org>  Thu, 01 Feb 2018 20:46:35 +0100
+
+golang-xi2-x-xz (0.0~git20150926.0.18c6b71-1) unstable; urgency=medium
+
+  * Initial release (Closes: #804398).
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 08 Nov 2015 17:20:44 +1100
